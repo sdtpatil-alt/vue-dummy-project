@@ -1,3 +1,40 @@
+# React Dummy App
+
+A minimal React app scaffolded with Vite. Use this project to experiment or as a starting point for small demos.
+
+Quick start
+
+1. Install dependencies
+
+```bash
+npm install
+```
+
+2. Run development server
+
+```bash
+npm run dev
+```
+
+3. Build for production
+
+```bash
+npm run build
+```
+
+4. Preview production build
+
+```bash
+npm run preview
+```
+
+Files of interest
+
+- `src/App.jsx` — main example component
+- `src/main.jsx` — app entry
+- `index.html` — HTML template
+
+If you want me to add a different dummy UI or tests, tell me what you'd like to see.
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
